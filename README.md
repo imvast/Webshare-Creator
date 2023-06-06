@@ -1,5 +1,3 @@
-# Releasing on Friday, June 9th or at 50 stars
-
 <div align="center">
   <kbd style="box-shadow: 0 0 10px #fff;">
   <a href="https://github.com/imvast/Webshare-Creator">
@@ -61,7 +59,7 @@
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 06/07/2023
+v0.0.1 ⋮ 06/06/2023
 ! Initial release
 ```
 
