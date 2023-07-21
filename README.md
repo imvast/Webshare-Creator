@@ -27,7 +27,11 @@
 
 - Requires: `Go 1.18+`
 - Add your capsolver.com key to `main.go` *(line 21)*
+- Requerments: `go mod download github.com/imvast/capsolver-go`
+- Requerments: `go get github.com/rs/zerolog`
+- Requerments: `go get github.com/rs/zerolog/log`
 - Start: `go run main.go`
+
 
 ---
 
